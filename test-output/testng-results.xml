@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32200" started-at="2020-10-15T17:01:05Z" finished-at="2020-10-15T17:01:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32200" started-at="2020-10-15T17:01:05Z" finished-at="2020-10-15T17:01:38Z">
+      <class name="ClientPortal.ClientPortal.Login">
+        <test-method status="PASS" signature="basenavigationstep()[pri:0, instance:ClientPortal.ClientPortal.Login@26be92ad]" name="basenavigationstep" duration-ms="32117" started-at="2020-10-15T17:01:05Z" finished-at="2020-10-15T17:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basenavigationstep -->
+        <test-method status="PASS" signature="close_browser()[pri:0, instance:ClientPortal.ClientPortal.Login@26be92ad]" name="close_browser" is-config="true" duration-ms="32" started-at="2020-10-15T17:01:38Z" finished-at="2020-10-15T17:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- ClientPortal.ClientPortal.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
